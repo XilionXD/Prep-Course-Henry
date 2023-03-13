@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-Este es un repositorio de prueba
+Este proyuecto es solo una prueba de como crear un repositorio en la nube y trabajar con el de manera local
